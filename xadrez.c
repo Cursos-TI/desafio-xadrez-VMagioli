@@ -12,7 +12,7 @@ int main() {
     printf("Bispo na posição %d\n", bispo);
     
     //estrutura de repetição de movimentação da peça bispo
-    while (bispo <=4)
+    while (bispo <=5)
     {
         printf("diagonal direita, cima\n"); //imprime o resultado da movimentação da peça
         bispo++; //incrementa o valor da variável
